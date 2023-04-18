@@ -1,1 +1,178 @@
-/css/
+
+h1, p, img, table{
+    font-family: monospace;
+    background-color: antiquewhite;
+}
+h1, p, img{
+    width: 50%; height: 50%;
+}
+h1, p, img{
+    margin: 0%;
+    margin-left: 25%;
+}
+h1{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 2em;
+    margin-left: 20%;
+}
+p{
+    font-size: 1.5em;
+}
+img{
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+h1{
+    background-color: transparent;
+    color: whitesmoke;
+}
+p{
+    background-color: transparent;
+    color: white;
+}
+body{
+    background-image: url(IMAGES/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+figure {
+  border: none;
+  padding: 10px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: transparent;
+  color: black;
+  font-style: italic;
+  padding: 1px;
+  text-align: center;
+  font-size: 200%;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul {
+    list-style-type:none;
+    margin-bottom: 5%;
+    padding: 0;
+    width: 150px;
+    background-color:#115268 ;
+    position: fixed;
+    overflow: auto;
+}
+a {
+    display: block;
+    color: antiquewhite;
+    font-family: serif;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: snow;
+    color: black;
+}
+.active {
+    background-color: antiquewhite;
+    color: bisque;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 25%;
+    margin-right: 0;
+    font-weight: bold;
+    background-color:transparent;
+    color: white;
+}
+
+h3 { 
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 25%;
+    margin-right: 0;
+    font-weight: bold;
+    background-color: transparent;
+    color: whitesmoke;
+}
+.div-1{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-2{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-3{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-4{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-5{
+  margin-left: 25%;
+  background-color: bisque; 
+  height: 50%;
+  width: 50%;
+}
+.div-6{
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 37%;
+}
+.labelClass {
+  margin-left: 25%; 
+  height: 50%;
+  width: 50%;
+}
+textarea {
+    font-size: 1rem;
+    line-height: 1.5em;
+    font-family: cursive;
+    margin-left: 25%;
+    background-color: transparent
+}
+main {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+ol.c {
+  list-style-type: circle;
+}
+
+header {
+    margin-left: 20%;
+    margin-top: 2%;
+    margin-bottom: 0;
+    height: 10%;
+    width: 10%;
+}
+table {
+    background-color:transparent;
+    color: whitesmoke;
+}
+
